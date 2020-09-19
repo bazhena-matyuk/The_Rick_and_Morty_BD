@@ -1,0 +1,6 @@
+.Nav a:not(:last-child){
+    margin-right: 25px;
+}
+.Nav a {
+    font-size: 25px;
+}

@@ -1,0 +1,6 @@
+.Spinner {
+  margin: 0 auto;
+  width: 500px;
+  height: 275px;
+  background-image: url(./spinner.gif);
+}

@@ -1,0 +1,18 @@
+.Homepage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgHP {  
+    width: 50%; 
+    background-image: url(./bghomepage.jpg);     
+    background-size: cover;
+    height: 675px;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+.Homepage .textHP {
+    text-align: center;
+    font-size: 56px;
+    width: 50%;
+}

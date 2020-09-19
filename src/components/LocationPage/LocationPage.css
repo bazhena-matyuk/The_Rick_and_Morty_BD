@@ -1,0 +1,31 @@
+.LocationPage {
+    background-image: url(./bglp.png);
+    border-radius: 25px;
+    margin: 0 auto;
+    text-align: center;
+    width: 60%;
+    background-size: cover;
+    color: white;
+    text-shadow: black 0 0 10px;
+}
+.LocationPage a {
+    color: white;
+}
+ul li {
+    width: 30%;
+}
+.LocationPage .title {
+    color: rgb(32, 35, 41);
+    font-size: 18px;
+    text-shadow: white 0 0 10px;
+    
+}
+.LocationPage .text {
+    font-size: 20px;
+}
+.LocationPage h1 {
+    margin-bottom: 20px;   
+}
+.LocationPage div {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,38 @@
+.EpisodePage {
+    background-image: url(./bgep.jpg);
+    background-size: 100% 100%;
+    border-radius: 25px;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.EpisodePage .infoBlock {
+    width: 43%;
+    margin: 10px auto;
+}
+.EpisodePage .infoBlock a {
+    color: white; 
+}
+.EpisodePage ul li {
+    width: 40%;
+}
+.EpisodePage h1 {
+    color: white;    
+    width: 57%;
+}
+
+.EpisodePage div {
+    margin-bottom: 20px;
+}
+.EpisodePage .title {
+    color: rgb(32, 35, 41);
+    font-size: 18px;    
+}
+.EpisodePage .text {
+    font-size: 20px;
+    color: white; 
+}

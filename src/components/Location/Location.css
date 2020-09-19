@@ -1,0 +1,81 @@
+* {
+    margin: 0 auto;
+}
+ul {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-inline-start: 0;
+}
+ul li {
+    width: 45%;
+}
+ul li .typeImg {
+    display: flex;
+    background-size: cover;
+    margin: 0 auto 10px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+.Location {
+    margin-bottom: 20px;
+}
+.Location .textBlock {
+    width: 90%;
+    font-size: 24px;
+    margin: 10px auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+    text-shadow: white 0 0 10px;
+}
+.Location .titleBlock, .Location .infoBlock {
+    margin-bottom: 20px;
+}
+.Location .textBlock .infoBlock {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    opacity: 0.5;
+}
+.Location .textBlock .infoBlock p {    
+    opacity: 1;
+}
+.Location .textBlock p {
+    margin: 10px auto;
+}
+.Location .textBlock a {
+    color: black;
+    font-weight: bold;
+    font-size: 30px
+}
+.Location .typeImg {
+    background-image: url(../../img/any.png);
+    background-size: cover;
+}
+.Location .typeImg.planet {
+    background-image: url(../../img/planet.png);    
+}
+.Location .typeImg.station {
+    background-image: url(../../img/space_station.png);
+}
+.Location .typeImg.TV {
+    background-image: url(../../img/TV.png);
+}
+.Location .typeImg.microverse {
+    background-image: url(../../img/microverse.png);
+}
+.Location .typeImg.resort {
+    background-image: url(../../img/resort.png);
+}
+.Location .typeImg.town {
+    background-image: url(../../img/fantasy_town.png);
+}
+.Location .typeImg.dream {
+    background-image: url(../../img/dream.png);
+}
+.Location .typeImg.cluster {
+    background-image: url(../../img/cluster.jpg);
+}

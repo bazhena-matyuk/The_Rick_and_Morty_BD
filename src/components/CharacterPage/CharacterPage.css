@@ -1,0 +1,39 @@
+.CharacterPage {
+    border-radius: 25px;
+    background-color: rgb(32, 35, 41);
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+.CharacterPage a {
+    color: white;
+}
+.CharacterPage .title {
+    color: rgb(158, 158, 158);
+    font-size: 18px;
+}
+.CharacterPage .text {
+    font-size: 20px;
+}
+.CharacterPage div {
+    margin-bottom: 20px;
+}
+.CharacterPage .characterBlock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.CharacterPage .characterBlock .infoBlock {
+    width: 70%;
+    margin: 10px auto;
+}
+.CharacterPage img {    
+    border-radius: 25px;
+}
+.CharacterPage .nameBlock h1 {
+    margin-bottom: 20px;
+}
+.CharacterPage .characterBlock .nameBlock {
+    margin: 0 auto;
+}

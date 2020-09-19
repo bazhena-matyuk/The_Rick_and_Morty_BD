@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'mizike';
+    src: url(../../img/MIZIKE.ttf)
+}
+h1, a, p {
+    font-family: mizike;
+}
+a {
+    text-decoration: none;
+}
+.App {
+    background-color: rgba(32, 35, 41, 0.5);
+    min-height: 721px;
+}
+.App p {
+    margin-top: 0;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+ul li {
+    width: 30%;
+}

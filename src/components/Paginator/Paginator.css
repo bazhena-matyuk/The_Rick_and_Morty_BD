@@ -1,0 +1,17 @@
+.Paginator {
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.Paginator button:not(:last-child) {
+    margin-right: 10px;
+}
+.Paginator span {
+    margin-right: 10px;
+}
+.Paginator button {
+    border-radius: 5px;
+    background-color: rgb(32, 35, 41);
+    color: white;
+    font-size: 30px;
+}

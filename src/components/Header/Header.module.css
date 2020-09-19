@@ -1,0 +1,26 @@
+.Header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border: 4px double white;
+  margin-bottom: 20px;
+}
+.Header a {
+  color: white;
+}
+.nav_block {
+  display: block;
+  font-size: 20px;
+}
+.title_block p {
+  font-size: 40px;
+}
+.logo_link {
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+  margin: 0;
+  text-decoration: none;
+}
